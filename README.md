@@ -8,4 +8,3 @@ I'm an aspiring full-stack developer.
 - 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/jamila-elmi-b75496108/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like watching mind-bending movies
--->
